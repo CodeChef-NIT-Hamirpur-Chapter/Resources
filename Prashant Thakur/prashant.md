@@ -27,5 +27,5 @@ https://www.youtube.com/c/PriyanshAgarwal
 
 Although you shouldn't do CP for money or something else, do it for fun, this fun journey will help you a lot in the future, but if you want to know what one can get by doing CP
 
-seach for "tourist competitive programming" and get the motivation. :)
+search for "tourist competitive programming" and get the motivation. :)
 

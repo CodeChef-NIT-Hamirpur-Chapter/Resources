@@ -1,0 +1,16 @@
+Some of the sites I use when I want to learn something  new:
+My Preference:
+First is ---->  https://cp-algorithms.web.app/
+This site doesn't contain every algorithm out there,
+ but the explainations for the present ones are awesome. Obviously you need to have some basic knowledge before looking into this website.
+
+Second is -----> https://www.geeksforgeeks.org
+This site is really very vast. Everytime you search for some algorithm or something else, you will find that it is already present in this website (not always but most of the time)
+Algorithm is also nicely expained with code present in different programming languages. 
+Overall, a good website from where you can learn a lot of things.
+Fun Fact: You can also get some future interview problems here. :)
+
+Third is ----> https://stackoverflow.com/ 
+It's by far the best website for solving your doubts. Not all, but most of your questions are already asked by someone in this website, and there are very good answers present to these questions.
+
+

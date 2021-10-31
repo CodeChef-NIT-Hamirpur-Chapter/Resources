@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=B7JQ_JX6Fs8
 
 Remember to do this problem after a day or two, to really make sure that, yes you got the concept.
 
-It's easy but then also didn't got it.
+Suppose the problem is easy but then also you didn't got it.
 It happens sometimes. Some problems are like a point to be noted. If you got the point, you will solve the problems, otherwise you will just get confused in the problems.
 Now the point is how to know in which questions we should care about these points?
 Although this thing comes with time, but if you are practicing then most probably you will need this "observation" in "IMPLEMENTATION" problems.

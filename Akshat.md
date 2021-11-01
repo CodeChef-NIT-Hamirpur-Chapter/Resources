@@ -25,13 +25,15 @@ According to me, these are some of the best websites for problem solving as well
 If you want to do problems about some specific topic, then i would recommend the following:
 1. [CP Algorithms](https://cp-algorithms.com/) - This is one of the most important places where you can learn almost anything related to CP. Everything here is nicely explained, and there are **problems** for each topic under their blog. 
 
-2. [Leetcode](leetcode.com) - Although this proves to be very important for interview preperation, leetcode is also home to some very challenging and great problems.
+2. [USACO](https://usaco.guide/) - USACO guide provides important resources, extensive problems along with progress tracking. 
 
-3. [Algoshots](https://algoshots.herokuapp.com/practicepage/) - This can help you find good problems of specific rating/spefici topic.
+3. [Leetcode](leetcode.com) - Although this proves to be very important for interview preperation, leetcode is also home to some very challenging and great problems.
 
-4. [Codehunt](https://codehunt.cc/) - This website can help you filter through codeforces problems easily. (you can even include some and exclude other topics and find relevant problems)
+4. [Algoshots](https://algoshots.herokuapp.com/practicepage/) - This can help you find good problems of specific rating/spefici topic.
 
-5. [CF Tracker](https://cftracker.netlify.app/contests) -  Helps you see which problems you have attempted contest wise, and which you can.
+5. [Codehunt](https://codehunt.cc/) - This website can help you filter through codeforces problems easily. (you can even include some and exclude other topics and find relevant problems)
+
+6. [CF Tracker](https://cftracker.netlify.app/contests) -  Helps you see which problems you have attempted contest wise, and which you can.
 
 # Tips
 * Always sit with a pen and paper, and write/draw whatever that comes to your mind. 

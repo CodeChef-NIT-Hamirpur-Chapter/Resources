@@ -8,20 +8,22 @@ According to me, these are some of the best websites for problem solving as well
 # Learning websites
 1. [CodeChef](https://www.codechef.com/LEARNDSA?itm_medium=navmenu&itm_campaign=learndsa) - Have their own CP and DSA Learning series, which has many relevant questions.
 
-2. [Colin Galen's Youtube](https://www.youtube.com/channel/UCpvS3EykHW--l0ogUhMEjEw) - Colin Galen is an **[International Master](https://codeforces.com/profile/galen_colin)** on codeforces and a youtuber. He has many streams of specific topics where he explains the topic and solves many problems. These can help you understand that topic better.
+2. [Utkarsh Gupta's Youtube Channel](https://www.youtube.com/channel/UCGS5ZzcSAymQbWZvNoKOFhQ/videos) - Utkarsh Gupta AKA [HealthyUG](https://codeforces.com/profile/HealthyUG) is one of India's best competitive programmers. He has videos on concepts like DP, trees and explains very well. He also takes [special classes on Unacademy](https://unacademy.com/@healthyug/courses?goal=all&type=special) which are also great.
 
-3. [CSES's CP Handbook](https://cses.fi/book/book.pdf) and [USACO's CP Book](https://usaco.guide/CP2.pdf)
+3. [Colin Galen's Youtube](https://www.youtube.com/channel/UCpvS3EykHW--l0ogUhMEjEw) - Colin Galen is an **[International Master](https://codeforces.com/profile/galen_colin)** on codeforces and a youtuber. He has many streams of specific topics where he explains the topic and solves many problems. These can help you understand that topic better.
 
-4. *Codeforces Blogs* - We all agree there are **MANY** competitive programmers around the world, thus someone might have already written something about `whatever` you are trying to learn. There are many useful codeforces blogs that are helpful. So whenever you are learning something new and want to learn some tricks, just google `<topic name> codeforces`
+4. [CSES's CP Handbook](https://cses.fi/book/book.pdf) and [USACO's CP Book](https://usaco.guide/CP2.pdf)
+
+5. *Codeforces Blogs* - We all agree there are **MANY** competitive programmers around the world, thus someone might have already written something about `whatever` you are trying to learn. There are many useful codeforces blogs that are helpful. So whenever you are learning something new and want to learn some tricks, just google `<topic name> codeforces`
 
 * Examples of some useful blogs:
   - [The Ultimate topic list](https://codeforces.com/blog/entry/95106)
   - [Graph problems](https://codeforces.com/blog/entry/55219?#comment-390897)
   - [C++ tricks](https://codeforces.com/blog/entry/15643)
 
-5. [CodeForces Edu Section](https://codeforces.com/edu/course/2) - This provides insights on various topics like segment trees, binary search etc.
+6. [CodeForces Edu Section](https://codeforces.com/edu/course/2) - This provides insights on various topics like segment trees, binary search etc.
 
-6. [CPP Reference](https://en.cppreference.com/w/) - If you want to learn technical stuff about anything in C++, this website is best for you.
+7. [CPP Reference](https://en.cppreference.com/w/) - If you want to learn technical stuff about anything in C++, this website is best for you.
 
 # Practice websites
 If you want to do problems about some specific topic, then i would recommend the following:

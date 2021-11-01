@@ -11,11 +11,11 @@ According to me, these are some of the best websites for problem solving as well
 2. [Colin Galen's Youtube](https://www.youtube.com/channel/UCpvS3EykHW--l0ogUhMEjEw) - Colin Galen is an **[International Master](https://codeforces.com/profile/galen_colin)** on codeforces and a youtuber. He has many streams of specific topics where he explains the topic and solves many problems. These can help you understand that topic better.
 
 3. *Codeforces Blogs* - We all agree there are **MANY** competitive programmers around the world, thus someone might have already written something about `whatever` you are trying to learn. There are many useful codeforces blogs that are helpful. So whenever you are learning something new and want to learn some tricks, just google `<topic name> codeforces`
-<br> 
-1. Examples of some useful blogs:
-   - [The Ultimate topic list](https://codeforces.com/blog/entry/95106)
-   - [Graph problems](https://codeforces.com/blog/entry/55219?#comment-390897)
-   - [C++ tricks](https://codeforces.com/blog/entry/15643)
+
+* Examples of some useful blogs:
+  - [The Ultimate topic list](https://codeforces.com/blog/entry/95106)
+  - [Graph problems](https://codeforces.com/blog/entry/55219?#comment-390897)
+  - [C++ tricks](https://codeforces.com/blog/entry/15643)
 
 4. [CodeForces Edu Section](https://codeforces.com/edu/course/2) - This provides insights on various topics like segment trees, binary search etc.
 

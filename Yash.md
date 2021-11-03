@@ -10,3 +10,5 @@ Youtube Channels:
 8. CC Resources
 9. A2oj ladders
 10. Atcoder 
+11. Competitive Programming Handbook
+12. Atcoder ladder: https://kenkoooo.com/atcoder#/table/

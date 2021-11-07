@@ -10,7 +10,7 @@
 
 3. [Luv](https://www.youtube.com/c/LuvIsMe) - A great channel for basics and setting up environment. He has a nice CP/DSA Playlist.
 
-4. [Priyansh Agarwal](https://www.youtube.com/c/PriyanshAgarwal)
+4. [Priyansh Agarwal](https://www.youtube.com/c/PriyanshAgarwal) - Uploads contest screencasts sharing his own though process. He also has a nice video on how to debug your code.
 
 5. [Code N Code](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ) - The main focus of this channel is to teach students data structures and algorithms and has many great playlists on *Bit Manipulation, Number Theory* etc.
 
